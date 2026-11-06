@@ -37,7 +37,7 @@ iOS: on the App Store since July 2026 · Android: closed testing on Google Play
 | Android | [Skip](https://skip.tools): transpiles the same Swift and SwiftUI code to Kotlin and Jetpack Compose |
 | Backend | Firebase Authentication (Apple, Google, email), Cloud Firestore, Cloud Storage, App Check, Analytics |
 | Server | Cloud Functions on Node.js |
-| AI | Claude API, server-side only: Sonnet 5 reads schedules through a strict tool schema; Haiku 4.5 writes study tips |
+| AI | Claude API, server-side only: Sonnet 5.5 reads schedules through a strict tool schema; Haiku 5.5 writes study tips |
 | Payments | StoreKit 2 on iOS; RevenueCat over Google Play Billing on Android |
 | Platform | WidgetKit, EventKit, UserNotifications and AlarmManager, Speech (on device), Core Graphics PDF |
 | Tests | Swift Testing |

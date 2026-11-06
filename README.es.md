@@ -37,7 +37,7 @@ iOS: en la App Store desde julio de 2026 · Android: en prueba cerrada en Google
 | Android | [Skip](https://skip.tools): traduce el mismo código Swift y SwiftUI a Kotlin y Jetpack Compose |
 | Backend | Firebase Authentication (Apple, Google y correo), Cloud Firestore, Cloud Storage, App Check y Analytics |
 | Servidor | Cloud Functions en Node.js |
-| IA | API de Claude, solo desde el servidor: Sonnet 5 lee horarios con un esquema estricto de herramientas; Haiku 4.5 escribe los consejos de estudio |
+| IA | API de Claude, solo desde el servidor: Sonnet 5.5 lee horarios con un esquema estricto de herramientas; Haiku 5.5 escribe los consejos de estudio |
 | Pagos | StoreKit 2 en iOS; RevenueCat sobre Google Play Billing en Android |
 | Plataforma | WidgetKit, EventKit, UserNotifications y AlarmManager, Speech (en el teléfono) y PDF con Core Graphics |
 | Pruebas | Swift Testing |
